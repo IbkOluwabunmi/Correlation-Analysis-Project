@@ -1,4 +1,4 @@
-![Project Cover](/Users/Ibk/Desktop/moviesheatmap_cover.png)
+![Project Cover](moviesheatmap_cover.png)
 
 # Correlation Analysis in Python
 
