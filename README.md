@@ -1,3 +1,5 @@
+![Project Cover](/Users/Ibk/Desktop/moviesheatmap_cover.png)
+
 # Correlation Analysis in Python
 
 This project explores correlations between numerical variables in a dataset using Python. The goal was to identify how strongly different features relate to one another and visualize the relationships with heatmaps and regression plots.
