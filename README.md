@@ -1,4 +1,4 @@
-![Project Cover](moviesheatmap_cover.png)
+![Project Cover](corr.heatmap_cover.png)
 
 # Correlation Analysis in Python
 
